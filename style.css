@@ -48,7 +48,7 @@
     -webkit-transform: translateZ(0);
         transform: translateZ(0);
     will-change: transform;
-    background-image: url(../img/background-store.png);
+    background-image: url(https://rike2201.github.io/cafe/background-store.png);
     z-index: -1;
 }
 
